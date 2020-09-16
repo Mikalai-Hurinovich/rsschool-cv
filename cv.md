@@ -1,3 +1,5 @@
  1. <h3>Mikalai, Hurynovich.<br>
  2. Contact Info: email: hurinovichns@gmail.com, phone: **+375336374995**, telegram: @NikolaTeslavich<br>
  3. About me: I recently started learning HTML, Css, JS. I really liked the opportunity to create websites and be independent of the location (you can work remotely), and earn enough to travel and have nothing to deny yourself)) I want to become a high-level specialist in the field of development, and most importantly, I constantly go to this goals - continuous self-development and learning new things. My path began with a  book ['JavaScript for children'](https://litportal.ru/avtory/n-morgan/kniga-javascript-dlya-detey-samouchitel-po-programmirovaniyu-711525.html), then I began to study layout on Internet resources, make up simple pages, and got on a course 'FrontEnd' from the [Grampus school](https://grampus-school.ru/), where we were taught to create websites from scratch. After graduating, I decided that the RS School JavaScript / Front-end Course would be the perfect continuation.<br>
+4. Skills: HTML, CSS, JS, Scss, Pug(Jade).<br>
+5. My English level is A2 (pre-intermediate).<br>
